@@ -1,0 +1,3 @@
+﻿  com_port.cpp
+E:\repos\com_port\com_port\com_port.cpp(42,40): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  com_port.vcxproj -> E:\repos\com_port\x64\Debug\com_port.exe
